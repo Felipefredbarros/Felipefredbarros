@@ -8,7 +8,6 @@
 
 </div>
 
-Faço principalmente back-end em Java, do banco de dados até a API.
 
 ---
 
