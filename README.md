@@ -55,8 +55,6 @@
 
 ---
 
-### Números
-
 <div align="center">
   <img height="130" src="https://github-readme-stats.vercel.app/api?username=Felipefredbarros&show_icons=true&theme=transparent&hide_border=true" />
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipefredbarros&layout=compact&theme=transparent&hide_border=true" />
